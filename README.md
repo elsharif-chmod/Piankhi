@@ -14,8 +14,8 @@ Cloud Services:
 DevOps & Automation: 
 (Ansible - Chef - Puppet)
 
-Linux Foundation Networking (LFN)
-Open Networking Foundation (ONF)
+Linux Foundation Networking (LFN)'
+Open Networking Foundation (ONF)'
 Institute of Electrical and Electronics Engineers (IEEE)
 
 
