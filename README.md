@@ -1,18 +1,22 @@
-# Piankhi -  Piankhi LLC.  
+# Piankhi - Piankhi LLC.  
 
 **COMMING SOON**
 
 Network Infrastructure Setup & Testing:
-(On-Premises - IaaS - PaaS - SaaS - SOC-As-a-Service)
+(On-Premises - IaaS - PaaS - SaaS - SOC-As-a-Service - Technical Support)
 
-Cybersecurity:
-(Ethical Hacking - SOC Implementation)
 
 Cloud Services:
 (AWS - Azure - Google Cloud)
 
+
+Cybersecurity:
+(Ethical Hacking - SOC Implementation)
+
+
 DevOps & Automation: 
 (Ansible - Chef - Puppet)
+
 
 Linux Foundation Networking (LFN)'
 Open Networking Foundation (ONF)'
