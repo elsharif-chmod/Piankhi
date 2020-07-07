@@ -2,17 +2,17 @@
 
 **COMMING SOON**
 
-Network Infrastructure Setup & Testing
-'On-Premises - IaaS - PaaS - SaaS - SOC-As-a-Service'
+Network Infrastructure Setup & Testing:
+(On-Premises - IaaS - PaaS - SaaS - SOC-As-a-Service)
 
-Cybersecurity
+Cybersecurity:
 (Ethical Hacking - SOC Implementation)
 
 Cloud Services:
 (AWS - Azure - Google Cloud)
 
 DevOps & Automation: 
-'Ansible - Chef - Puppet'
+(Ansible - Chef - Puppet)
 
 Linux Foundation Networking (LFN)
 Open Networking Foundation (ONF)
